@@ -1,2 +1,2 @@
 My name is olawale
-i am from ogun state
+Ama student of ALX
